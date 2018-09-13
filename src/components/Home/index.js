@@ -6,7 +6,7 @@ const Home = props => (
   <div id='homeWrapper'>
 
     <section className='section'>
-      <img src='./src/Assets/donny.jpg' class='profPic' />
+      <img src='./src/Assets/donny.jpeg' class='profPic' />
     </section>
 
     <section className='welcome'>

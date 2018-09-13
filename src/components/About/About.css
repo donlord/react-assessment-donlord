@@ -35,9 +35,11 @@
     justify-content: center;
      */
      margin:auto;
+     margin-left:0;
 }
 .amber {
-    height :300px;
+    height :400px;
     margin:auto;
-    transform: rotate(90deg)
+    margin-right:0;
+    /* transform: rotate(90deg) */
 ;}

@@ -8,6 +8,7 @@ const About = props => (
       About Me:
     </div>
     <div className='chalkboard'>
+      <img src='./src/Assets/dj3.png' className='dj' />
       <ul className='list'>
         <li>Currently live in Memphis, TN and I grew up in New Jersey</li>
         <li>Rhodes College '17 Computer Science Major</li>
@@ -16,12 +17,9 @@ const About = props => (
         <li>Salvation Army Lifeguard - CPR certified</li>
         <li> Active lifestyle - Avid Sports fan, novice bodybuilder</li>
         <li> Animal lover - Shelter Volunteer and Dog Owner</li>
-        <li>From Memphis, TN and lived in Woodbury, NJ</li>
-        <li>From Memphis, TN and lived in Woodbury, NJ</li>
-        <li>From Memphis, TN and lived in Woodbury, NJ</li>
-        <li>From Memphis, TN and lived in Woodbury, NJ</li>
 
       </ul>
+      <img src='./src/Assets/amber.jpg' className='amber' />
     </div>
   </div>
 )

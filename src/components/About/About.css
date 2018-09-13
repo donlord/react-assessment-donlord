@@ -27,3 +27,17 @@
     /* color : #06a397; */
     font-size: 24pt; 
 }
+.dj{
+    height:400px;
+    /* width:21%; */
+    /* width:100%; */
+    /* display: flex;
+    justify-content: center;
+     */
+     margin:auto;
+}
+.amber {
+    height :300px;
+    margin:auto;
+    transform: rotate(90deg)
+;}

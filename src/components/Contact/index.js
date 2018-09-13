@@ -23,10 +23,29 @@ const Contact = () => (
       </form>
     </div>
     <div className='rightcol'>
-      <img src='./src/Assets/github.png' className='logo' />
-      <img src='./src/Assets/linkedin.png' className='logo' />
-    </div>
 
+      <div id='logolinks'>
+        <a target='_blank' href='https://github.com/donlord'>
+          <img src='./src/Assets/github.png' className='logo' />
+        </a>
+      </div>
+      <div id='logolinks'>
+        <a
+          target='_blank'
+          href='https://www.linkedin.com/in/donny-ramier-8532bb149/'
+        >
+          <img src='./src/Assets/linkedin.png' className='logo' />
+        </a>
+      </div>
+      <div id='logolinks'>
+        <a
+          target='_blank'
+          href='https://drive.google.com/open?id=0ByrWpk9CVYmWMDd6eXZTYVRMUU5RWWFtWGdKTUxJRG1aS19r'
+        >
+          <img src='./src/Assets/resume.png' className='logo' />
+        </a>
+      </div>
+    </div>
   </div>
 )
 export default Contact

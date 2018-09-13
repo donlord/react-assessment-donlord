@@ -23,7 +23,7 @@ const Projects = props => (
               <img
                 className='img'
                 src='./src/Assets/github.png'
-                alt='HTML tutorial'
+                alt='github logo'
               />
             </a>
           </span>
@@ -50,7 +50,7 @@ const Projects = props => (
               <img
                 className='img'
                 src='./src/Assets/github.png'
-                alt='HTML tutorial'
+                alt='github logo'
               />
             </a>
           </span>
@@ -76,7 +76,7 @@ const Projects = props => (
               <img
                 className='img'
                 src='./src/Assets/github.png'
-                alt='HTML tutorial'
+                alt='github logo'
               />
             </a>
           </span>

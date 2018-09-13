@@ -13,7 +13,6 @@ const About = props => (
       <ul className='list'>
         <Typing>
           <li>Currently live in Memphis, TN and I grew up in New Jersey</li>
-
           <li>Rhodes College '17 Computer Science Major</li>
           <li>Began Coding with the help of my roommates</li>
           <li>Family Oriented - 3 musketeers</li>

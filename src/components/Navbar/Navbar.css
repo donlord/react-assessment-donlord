@@ -12,7 +12,6 @@ nav {
     display: flex;
     margin: 0;
     flex-direction: row;
-    /* background-color:rgb(88, 77, 81,0.75); */
     border: 1px;
     padding : 0;
     top: 0;
@@ -32,7 +31,6 @@ nav {
     font-size :30px;
     padding : 10px;
     width: 50%;
-    
 }
 
 nav a{
@@ -45,8 +43,7 @@ nav a{
 }
 
 nav a:hover {
-        transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-    
+    transform: scale(1.2);
 }
 
 .active {

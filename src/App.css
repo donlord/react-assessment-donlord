@@ -1,17 +1,12 @@
 .section{
-     display: flex;
-     /* background: white;  */
+    display: flex;
     padding-top: 35px;
-     justify-content: center; 
-    
+    justify-content: center; 
     margin: auto;
     max-width: 500px
 }
 body{
     background: #EEE0CB;
-    /* font-family: Helvetica, sans-serif
-     */
-     font-family: 'Dosis', sans-serif;
-    /* font-family: 'Bree Serif', serif; */
+    font-family: 'Dosis', sans-serif;
 }
 

@@ -1,10 +1,10 @@
-.title{
+#title{
     display: flex;
     justify-content: center;
     margin-top: 125px;
     font-size : 48pt;
     /* color : white */
-    color : #06a397;
+    color : #2374AB;
     margin-bottom: 35px;
 }
 input {
@@ -13,8 +13,10 @@ input {
     border: 0;
     outline: 0;
     background: transparent;
-    border-bottom: 1px solid #06a397;
-    width : 250px;
+    border-bottom: 1px solid #2374AB;
+    width : 500px;
+    color:black;
+    font-size: 20pt;
     
   }
   .input{
@@ -24,18 +26,16 @@ input {
     margin-left: 50%;
     flex-wrap: wrap;
     /* color : white; */
-    color : #06a397;
-    font-size: 18pt;
+    color : #f60015;
+    font-size: 22pt;
   }
-  /* .smlinks{
-    float : right
-  } */
 
-.right {
+
+.rightcol {
     float:right;
     width: 50%;
   }
-  .left {
+  .leftcol {
     float:left;
     width: 50%;
   }
@@ -50,4 +50,17 @@ input {
       width: 50px;
       display: flex;
       justify-content: center;
+  }
+  #button{
+      /* border: 1px solid red; */
+      background-color: #2374AB; 
+      border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top:10px;
+
   }

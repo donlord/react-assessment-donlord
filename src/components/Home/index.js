@@ -3,7 +3,7 @@ import { Switch, Route, NavLink } from 'react-router-dom'
 import './home.css'
 
 const Home = props => (
-  <div>
+  <div id='homeWrapper'>
 
     <section className='section'>
       <img src='./src/Assets/donny.jpg' class='profPic' />

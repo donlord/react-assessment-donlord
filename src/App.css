@@ -1,0 +1,17 @@
+.section{
+     display: flex;
+     /* background: white;  */
+    padding-top: 35px;
+     justify-content: center; 
+    
+    margin: auto;
+    max-width: 500px
+}
+body{
+    background: #313333;
+    /* font-family: Helvetica, sans-serif
+     */
+     font-family: 'Dosis', sans-serif;
+    /* font-family: 'Bree Serif', serif; */
+}
+

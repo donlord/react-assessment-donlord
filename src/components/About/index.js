@@ -13,9 +13,12 @@ const About = props => (
       <ul className='list'>
         <Typing>
           <li>Currently live in Memphis, TN and I grew up in New Jersey</li>
+          <li>Family Oriented - 3 musketeers</li>
           <li>Rhodes College '17 Computer Science Major</li>
           <li>Began Coding with the help of my roommates</li>
-          <li>Family Oriented - 3 musketeers</li>
+          <li>
+            Virtual Reality Research Assistant - locomotion and perception
+          </li>
           <li>Salvation Army Lifeguard - CPR certified</li>
           <li> Active lifestyle - Avid Sports fan, novice bodybuilder</li>
           <li> Animal lover - Shelter Volunteer and Dog Owner</li>
